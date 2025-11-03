@@ -5,7 +5,7 @@
     ami_id: ami-09c813fb71547fc4f
     sg_id: sg-0cda10cd2281e68bd  # replace with your SG ID
     zone_id: "Z086445618CDQ31LFJNM3" # replace with your ID
-    domaim_name: "daws-86s.space"
+    domain_name: "daws-86s.space"
     instances:
     - mongodb
 
