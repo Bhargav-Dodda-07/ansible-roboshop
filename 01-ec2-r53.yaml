@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   vars:
-    ami_id: ami-09c813fb71547fc4f
+    ami_id: ami-0220d79f3f480ecf5
     sg_id: sg-0cda10cd2281e68bd  # replace with your SG ID
     zone_id: "Z086445618CDQ31LFJNM3" # replace with your ID
     domain_name: "daws-86s.space"
